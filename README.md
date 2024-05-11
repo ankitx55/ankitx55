@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
+<p align="left"> <a href="https://twitter.com/ankitx55" target="blank"><img src="https://img.shields.io/twitter/follow/ankitx55?logo=twitter&style=for-the-badge" alt="ankitx55" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitx55&label=Profile%20views&color=0e75b6&style=flat" alt="ankitx55" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitx55" alt="ankitx55" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ankitx55" target="blank"><img src="https://img.shields.io/twitter/follow/ankitx55?logo=twitter&style=for-the-badge" alt="ankitx55" /></a> </p>
 
 - 🌱 I’m currently learning **Machine learning**
 
@@ -14,7 +11,24 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1b9KWMkTYn1ljqB7Mcpe7d70vJfXdT3Mp/view?usp=sharing](https://drive.google.com/file/d/1b9KWMkTYn1ljqB7Mcpe7d70vJfXdT3Mp/view?usp=sharing)
 
+<p align="left"> <a href="https://twitter.com/ankitx55" target="blank"><img src="https://img.shields.io/twitter/follow/ankitx55?logo=twitter&style=for-the-badge" alt="ankitx55" /></a> </p>
+
 - ⚡ Fun fact **You don't weigh same on the mars.**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitx55" alt="ankitx55" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/ankitx55" target="blank"><img src="https://img.shields.io/twitter/follow/ankitx55?logo=twitter&style=for-the-badge" alt="ankitx55" /></a> </p>
+
+- 🌱 I’m currently learning **Machine learning**
+
+- 👨‍💻 All of my projects are available at [https://github.com/ankitx55](https://github.com/ankitx55)
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1b9KWMkTYn1ljqB7Mcpe7d70vJfXdT3Mp/view?usp=sharing](https://drive.google.com/file/d/1b9KWMkTYn1ljqB7Mcpe7d70vJfXdT3Mp/view?usp=sharing)
+
+- ⚡ Fun fact **You don't weigh same on the mars.**
+
+- 📫 How to reach me **ankitx55@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
