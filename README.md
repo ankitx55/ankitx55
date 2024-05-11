@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
-<h3 align="center">A passionate Backend developer from India. 🚀 I love building impactful software solutions that make a difference. My areas of expertise include Backend web development. 🌱 Currently, I'm diving deep into Machine Learning. 💬 Let's connect and collaborate on exciting projects! 📫 Feel free to reach me at ankitx55@gmail.com.</h3>
+<h3 align="center">A passionate Backend developer from India.<t> 🚀 I love building impactful software solutions that make a difference. My areas of expertise include Backend web development. 🌱 Currently, I'm diving deep into Machine Learning. 💬 Let's connect and collaborate on exciting projects! 📫 Feel free to reach me at ankitx55@gmail.com.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitx55&label=Profile%20views&color=0e75b6&style=flat" alt="ankitx55" /> </p>
 
