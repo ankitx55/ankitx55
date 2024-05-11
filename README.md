@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
-<h3 align="center">
+<h6 align="center">
     🚀 I love building impactful software solutions that make a difference. My areas of expertise include Backend web development.<br>
     🌱 Currently, I'm diving deep into Machine Learning.<br>
     💬 Let's connect and collaborate on exciting projects! <br>
     📫 Feel free to reach me at ankitx55@gmail.com. <br>
-</h3>
+</h6>
 A passionate Backend developer from India. <br> 
 🚀 I love building impactful software solutions that make a difference. My areas of expertise include Backend web development. 🌱 Currently, I'm diving deep into Machine Learning. 💬 Let's connect and collaborate on exciting projects! 📫 Feel free to reach me at ankitx55@gmail.com.
 
